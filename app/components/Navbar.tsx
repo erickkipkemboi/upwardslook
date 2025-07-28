@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16 items-center">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-          <img src="/logo.svg" alt="Logo" className="h-10 w-10" /> 
+          <img src="/logo.png" alt="Logo" className="h-10 w-10" /> 
             <span className="text-xl font-bold text-gray-800">Upwards Look Company</span>
           </Link>
 
@@ -18,7 +18,6 @@ export default function Navbar() {
             <Link href="/Service" className="text-gray-700 hover:text-black font-medium transition">Services</Link>
             <Link href="/Contact" className="text-gray-700 hover:text-black font-medium transition">Contact</Link>
           </nav>
-
              </div>
       </div>
     </header>
