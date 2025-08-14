@@ -2,7 +2,9 @@ import React from 'react'
 
 function page() {
   return (
-    <div>About Us </div>
+    <div> 
+    <h3> The Name is Olande   </h3>
+    </div>
   )
 }
 
