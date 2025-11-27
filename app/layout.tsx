@@ -16,9 +16,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "UpwardsLook",
-
+  title: "UPWARD LOOK COMPANY",
+  icons: {
+    icon: '/icons/logo.png',
+ 
+  }
 };
+
 
 export default function RootLayout({
   children,
