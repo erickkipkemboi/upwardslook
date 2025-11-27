@@ -55,7 +55,7 @@ function NavigationMenu() {
     { href: "/", label: "Home" },
     { href: "/aboutus", label: "About" },
     { href: "/services", label: "Services" },
-    { href: "/contactus", label: "Contact Us" },
+    { href: "/ContactUs", label: "Contact Us" },
   ];
 
   const handleSignIn = useCallback(() => {
@@ -67,7 +67,6 @@ function NavigationMenu() {
     <Card className="rounded-none border-none sticky top-0 z-50 bg-[#DAA520] shadow-md">
 
       <div className="h-10 w-full px-4 lg:px-8 flex items-center">
-        {/* LEFT: Logo and Company Name */}
         <div className="flex items-center space-x-3">
           <Link href="/" aria-label="EuroBridge Language Institute Home">
             <div className="w-12 h-12 sm:w-14 sm:h-14 flex-shrink-0">
