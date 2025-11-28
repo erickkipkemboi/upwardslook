@@ -9,7 +9,6 @@ function Content3() {
       </div>
          <div className="relative z-10 flex items-center justify-center min-h-screen text-white">
     
-
       </div>
 
     </div>

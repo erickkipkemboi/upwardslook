@@ -81,7 +81,7 @@ function NavigationMenu() {
             </div>
           </Link>
           <span className="text-[#5C4033] font-bold text-lg sm:text-xl lg:text-xl leading-tight">
-            Upwards Company
+            Upwards Looks Construction Company
           </span>
 
         </div>
